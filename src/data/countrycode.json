@@ -1,0 +1,32 @@
+
+[
+    {
+        "country": "Afghanistan",
+        "code": "+93"
+    },
+    {
+        "country": "Albania",
+        "code": "+355"
+    },
+    {
+        "country": "Algeria",
+        "code": "+213"
+    },
+    {
+        "country": "Argentina",
+        "code": "+54"
+    },
+    {
+        "country": "Finland",
+        "code": "+358"
+    },
+    {
+        "country": "France",
+        "code": "+33"
+    },
+    {
+        "country": "India",
+        "code": "+91"
+    }
+
+]
